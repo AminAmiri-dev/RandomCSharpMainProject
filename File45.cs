@@ -8,25 +8,53 @@ namespace RandomNamespace45
         
         public static void Function7J5P0()
         {
-            Console.WriteLine("Keep coding, keep learning!");
+            try
+            {
+                Console.WriteLine("Keep coding, keep learning!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function6U6OU()
         {
-            Console.WriteLine("Welcome to C#!");
+            try
+            {
+                Console.WriteLine("Welcome to C#!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionHLBJC()
         {
-            Console.WriteLine("Python generated this code.");
+            try
+            {
+                Console.WriteLine("Python generated this code.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function9EKGC()
         {
-            Console.WriteLine("C# rocks!");
+            try
+            {
+                Console.WriteLine("C# rocks!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

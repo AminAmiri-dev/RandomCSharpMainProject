@@ -8,37 +8,79 @@ namespace RandomNamespace298
         
         public static void FunctionB2FPW()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function7ZKPE()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function4KPNK()
         {
-            Console.WriteLine("C# rocks!");
+            try
+            {
+                Console.WriteLine("C# rocks!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionJ25V6()
         {
-            Console.WriteLine("C# rocks!");
+            try
+            {
+                Console.WriteLine("C# rocks!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionIYXQ4()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function8SXSQ()
         {
-            Console.WriteLine("This is a random message.");
+            try
+            {
+                Console.WriteLine("This is a random message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

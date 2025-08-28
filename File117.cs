@@ -8,37 +8,79 @@ namespace RandomNamespace117
         
         public static void Function3K2YZ()
         {
-            Console.WriteLine("Keep coding, keep learning!");
+            try
+            {
+                Console.WriteLine("Keep coding, keep learning!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionW31CL()
         {
-            Console.WriteLine("Random text is the best.");
+            try
+            {
+                Console.WriteLine("Random text is the best.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function0FHE9()
         {
-            Console.WriteLine("Welcome to C#!");
+            try
+            {
+                Console.WriteLine("Welcome to C#!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionT2URL()
         {
-            Console.WriteLine("Random text is the best.");
+            try
+            {
+                Console.WriteLine("Random text is the best.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionJW1M8()
         {
-            Console.WriteLine("Python generated this code.");
+            try
+            {
+                Console.WriteLine("Python generated this code.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionJQVIZ()
         {
-            Console.WriteLine("This is a random message.");
+            try
+            {
+                Console.WriteLine("This is a random message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

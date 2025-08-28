@@ -8,19 +8,40 @@ namespace RandomNamespace262
         
         public static void FunctionKQ4BV()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionTS754()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function7JVQW()
         {
-            Console.WriteLine("Code generation is fun!");
+            try
+            {
+                Console.WriteLine("Code generation is fun!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

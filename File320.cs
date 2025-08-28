@@ -8,25 +8,53 @@ namespace RandomNamespace320
         
         public static void FunctionUQH1P()
         {
-            Console.WriteLine("Python generated this code.");
+            try
+            {
+                Console.WriteLine("Python generated this code.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionKPKN5()
         {
-            Console.WriteLine("Hello, world!");
+            try
+            {
+                Console.WriteLine("Hello, world!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionGW1IV()
         {
-            Console.WriteLine("Hello, world!");
+            try
+            {
+                Console.WriteLine("Hello, world!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionW3SUA()
         {
-            Console.WriteLine("Welcome to C#!");
+            try
+            {
+                Console.WriteLine("Welcome to C#!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

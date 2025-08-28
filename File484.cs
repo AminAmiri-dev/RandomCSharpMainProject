@@ -8,25 +8,53 @@ namespace RandomNamespace484
         
         public static void FunctionW4GX0()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function506KE()
         {
-            Console.WriteLine("Enjoy your day!");
+            try
+            {
+                Console.WriteLine("Enjoy your day!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionFZKAK()
         {
-            Console.WriteLine("Hello, world!");
+            try
+            {
+                Console.WriteLine("Hello, world!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionGJF7N()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

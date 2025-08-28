@@ -8,19 +8,40 @@ namespace RandomNamespace148
         
         public static void FunctionKI0I4()
         {
-            Console.WriteLine("Hello, world!");
+            try
+            {
+                Console.WriteLine("Hello, world!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionPSN8N()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionZ4VSE()
         {
-            Console.WriteLine("Code generation is fun!");
+            try
+            {
+                Console.WriteLine("Code generation is fun!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

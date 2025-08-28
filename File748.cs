@@ -8,31 +8,66 @@ namespace RandomNamespace748
         
         public static void FunctionYM8I0()
         {
-            Console.WriteLine("Random text is the best.");
+            try
+            {
+                Console.WriteLine("Random text is the best.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionK1ZCW()
         {
-            Console.WriteLine("Code generation is fun!");
+            try
+            {
+                Console.WriteLine("Code generation is fun!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionGLOFV()
         {
-            Console.WriteLine("Random text is the best.");
+            try
+            {
+                Console.WriteLine("Random text is the best.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionUEPMS()
         {
-            Console.WriteLine("Random text is the best.");
+            try
+            {
+                Console.WriteLine("Random text is the best.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionNLOHK()
         {
-            Console.WriteLine("C# rocks!");
+            try
+            {
+                Console.WriteLine("C# rocks!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

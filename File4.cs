@@ -8,19 +8,40 @@ namespace RandomNamespace4
         
         public static void FunctionZUHDM()
         {
-            Console.WriteLine("This is a random message.");
+            try
+            {
+                Console.WriteLine("This is a random message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionUGQFH()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionNTFEV()
         {
-            Console.WriteLine("Hello, world!");
+            try
+            {
+                Console.WriteLine("Hello, world!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

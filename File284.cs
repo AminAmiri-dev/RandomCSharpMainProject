@@ -8,31 +8,66 @@ namespace RandomNamespace284
         
         public static void FunctionQJX4W()
         {
-            Console.WriteLine("Enjoy your day!");
+            try
+            {
+                Console.WriteLine("Enjoy your day!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionZE87A()
         {
-            Console.WriteLine("Welcome to C#!");
+            try
+            {
+                Console.WriteLine("Welcome to C#!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function6V49S()
         {
-            Console.WriteLine("Keep coding, keep learning!");
+            try
+            {
+                Console.WriteLine("Keep coding, keep learning!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function2RM2J()
         {
-            Console.WriteLine("Hello, world!");
+            try
+            {
+                Console.WriteLine("Hello, world!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionI5BLS()
         {
-            Console.WriteLine("Welcome to C#!");
+            try
+            {
+                Console.WriteLine("Welcome to C#!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

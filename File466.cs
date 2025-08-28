@@ -8,19 +8,40 @@ namespace RandomNamespace466
         
         public static void FunctionHSWXH()
         {
-            Console.WriteLine("This is a random message.");
+            try
+            {
+                Console.WriteLine("This is a random message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionH3GAT()
         {
-            Console.WriteLine("Welcome to C#!");
+            try
+            {
+                Console.WriteLine("Welcome to C#!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionPH1H6()
         {
-            Console.WriteLine("This is a test message.");
+            try
+            {
+                Console.WriteLine("This is a test message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

@@ -8,37 +8,79 @@ namespace RandomNamespace41
         
         public static void Function9QK3L()
         {
-            Console.WriteLine("This is a random message.");
+            try
+            {
+                Console.WriteLine("This is a random message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionTDK8O()
         {
-            Console.WriteLine("Random text is the best.");
+            try
+            {
+                Console.WriteLine("Random text is the best.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionR5PLB()
         {
-            Console.WriteLine("C# rocks!");
+            try
+            {
+                Console.WriteLine("C# rocks!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function72ZRQ()
         {
-            Console.WriteLine("Welcome to C#!");
+            try
+            {
+                Console.WriteLine("Welcome to C#!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void Function6NA6G()
         {
-            Console.WriteLine("Keep coding, keep learning!");
+            try
+            {
+                Console.WriteLine("Keep coding, keep learning!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionRV0QJ()
         {
-            Console.WriteLine("Python generated this code.");
+            try
+            {
+                Console.WriteLine("Python generated this code.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

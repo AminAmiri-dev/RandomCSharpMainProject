@@ -8,25 +8,53 @@ namespace RandomNamespace270
         
         public static void FunctionANC4C()
         {
-            Console.WriteLine("Keep coding, keep learning!");
+            try
+            {
+                Console.WriteLine("Keep coding, keep learning!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionF4HO7()
         {
-            Console.WriteLine("Random text is the best.");
+            try
+            {
+                Console.WriteLine("Random text is the best.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionSMOR3()
         {
-            Console.WriteLine("Enjoy your day!");
+            try
+            {
+                Console.WriteLine("Enjoy your day!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionTE0LN()
         {
-            Console.WriteLine("This is a random message.");
+            try
+            {
+                Console.WriteLine("This is a random message.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 

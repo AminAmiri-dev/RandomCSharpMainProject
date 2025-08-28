@@ -8,25 +8,53 @@ namespace RandomNamespace608
         
         public static void FunctionWMAVN()
         {
-            Console.WriteLine("Hello, world!");
+            try
+            {
+                Console.WriteLine("Hello, world!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionAO5NS()
         {
-            Console.WriteLine("Python generated this code.");
+            try
+            {
+                Console.WriteLine("Python generated this code.");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionAKUNN()
         {
-            Console.WriteLine("Welcome to C#!");
+            try
+            {
+                Console.WriteLine("Welcome to C#!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
         public static void FunctionKPYGM()
         {
-            Console.WriteLine("Code generation is fun!");
+            try
+            {
+                Console.WriteLine("Code generation is fun!");
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine(error);
+            }
         }
         
 
